@@ -1,0 +1,12 @@
+moviepy==1.0.3
+openai-whisper
+groq
+python-dotenv
+imageio-ffmpeg
+numpy
+scipy
+pillow
+customtkinter
+yt-dlp
+opencv-python==4.11.0.86
+pytest

@@ -1,0 +1,27 @@
+# Secrets - never commit
+.env
+*.env
+
+# Local media and large test assets
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Build output
+build/
+dist/
+release/
+*.exe
+*.log
+
+# Local agent state
+.claude/
